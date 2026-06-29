@@ -24,7 +24,7 @@ I work end-to-end across the full AI stack: **data → modeling → agentic orch
 - 🏢 Experience: **Infosys Springboard AI/ML Intern** | **Freelance AWS Bedrock & Strands Agent Dev**
 - ⚛️ Research: **VQC-based CKD detection on real IBM Quantum hardware → targeting IEEE JBHI**
 - 🤝 Open to: **internships, research collaborations, and freelance AI projects**
-- 📫 Reach me: **vivekmahanti06@gmail.com** | **linkedin.com/in/vivekananda-mahanti**
+- 📫 Reach me: **[Email](mailto:vivekmahanti06@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/vivekananda-mahanti/)**
 
 ---
 
@@ -152,9 +152,9 @@ I work end-to-end across the full AI stack: **data → modeling → agentic orch
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me:
 
-- **LinkedIn:** https://www.linkedin.com/in/vivekananda-mahanti/
-- **Email:** vivekmahanti06@gmail.com
-- **GitHub:** https://github.com/MVivekananda
+- 💼 **LinkedIn:** [vivekananda-mahanti](https://www.linkedin.com/in/vivekananda-mahanti/)
+- 📧 **Email:** [vivekmahanti06@gmail.com](mailto:vivekmahanti06@gmail.com)
+- 🐙 **GitHub:** [MVivekananda](https://github.com/MVivekananda)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MVivekananda&style=for-the-badge&color=blueviolet" alt="profile views" />
